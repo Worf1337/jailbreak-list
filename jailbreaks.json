@@ -29,7 +29,7 @@
             "Versions": "12.0 - 14.8",
             "Type": "Semi-tethered",
             "Icon": "https://assets.stkc.win/jailbreaks/checkra1n.png",
-            "Notes": "Tutorial available on [ios.cfw.guide](https://ios.cfw.guide/installing-odysseyra1n/)."
+            "Notes": "Compatible with A7 - A11 devices. A11 devices on iOS 14 cannot use a passcode, Touch ID, Face ID, or Apple Pay in a jailbroken state.\nTutorial available on [ios.cfw.guide](https://ios.cfw.guide/installing-odysseyra1n/)."
         }
     ],
     "odyssey": [
