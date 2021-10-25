@@ -174,7 +174,7 @@
             "Website": "https://ibrickr.com/",
             "Versions": "1.0 - 1.0.2",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/ibrickr.png",
             "Notes": "N/A"
         }
     ],
@@ -185,18 +185,18 @@
             "Website": "http://www.blackra1n.com/",
             "Versions": "3.1 - 3.1.3",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/blackra1n.png",
             "Notes": "N/A"
         }
     ],
     "sn0wbreeze": [
         {
-            "Name": "sn0wbreeze",
+            "Name": "Sn0wbreeze",
             "LatestVersion": "2.9.14",
             "Website": "https://www.ih8sn0w.com/",
             "Versions": "3.1.2 - 6.1.3",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/sn0wbreeze.png",
             "Notes": "N/A"
         }
     ],
@@ -207,7 +207,7 @@
             "Website": "https://www.theiphonewiki.com/wiki/PwnageTool",
             "Versions": "1.1.4 - iOS 5.1.1 v2",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/pwnagetool.png",
             "Notes": "N/A"
         }
     ],
@@ -218,7 +218,7 @@
             "Website": "http://limera1n.com//",
             "Versions": "3.2.2 - 4.2.1 v2",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/limera1n.png",
             "Notes": "N/A"
         }
     ],
@@ -229,7 +229,7 @@
             "Website": "http://www.spiritjb.com/",
             "Versions": "3.1.2 - 3.2",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/spirit.png",
             "Notes": "N/A"
         }
     ],
@@ -240,7 +240,7 @@
             "Website": "https://www.theiphonewiki.com/wiki/Yalu",
             "Versions": "10.1 - 10.2",
             "Type": "Semi-untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/yalu.png",
             "Notes": "N/A"
         }
     ],
@@ -251,7 +251,7 @@
             "Website": "https://www.theiphonewiki.com/wiki/G0blin",
             "Versions": "10.3.x",
             "Type": "Semi-untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/g0blin.png",
             "Notes": "Abandoned and superceded by doubleH3lix"
         }
     ],
@@ -262,18 +262,18 @@
             "Website": "http://en.pangu.io",
             "Versions": "9.0 - 9.3.3",
             "Type": "Untethered and Semi-untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/pangu9.png",
             "Notes": "n/a"
         }
     ],
     "pangu8": [
         {
             "Name": "Pangu8",
-            "LatestVersion": "1.2.1 (Windows)]\n1.0.0 (OS X)",
+            "LatestVersion": "1.2.1 (Windows)\n1.0.0 (OS X)",
             "Website": "https://www.theiphonewiki.com/wiki/Pangu8",
             "Versions": "8.0 - 8.1",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/pangu8.png",
             "Notes": "N/A"
         }
     ],
@@ -284,7 +284,7 @@
             "Website": "https://www.theiphonewiki.com/wiki/Pangu",
             "Versions": "7.1.x",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/pangu.png",
             "Notes": "N/A"
         }
     ],
@@ -295,7 +295,7 @@
             "Website": "http://wall.supplies/",
             "Versions": "8.4.1 and 9.1 - 9.3.4",
             "Type": "Untethered and Semi-untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/homedepot.png",
             "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app Legacy](https://jailbreaks.app/legacy.html).\nThe 1.1 beta supported [iOS 8.4.1](http://wall.supplies/OLD%20iPhone%20HACKED.html). List of [offsets](http://www.wall.supplies/offsets/). "
         }
     ],
@@ -306,7 +306,7 @@
             "Website": "http://www.taig.com/en/",
             "Versions": "8.0 - 8.4",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/taig.png",
             "Notes": "N/A"
         }
     ],
@@ -317,7 +317,7 @@
             "Website": "https://www.theiphonewiki.com/wiki/PPJailbreak",
             "Versions": "8.0 - 8.4",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/ppjailbreak.png",
             "Notes": "Highly not recommended for usage."
         }
     ],
@@ -325,11 +325,231 @@
         {
             "Name": "RageBreak",
             "LatestVersion": "121",
-            "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/NptWhIKD",
+            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/NptWhIKD)",
             "Versions": "7.0 - 7.0.4",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Icon": "https://assets.stkc.win/jailbreaks/ragebreak.png",
             "Notes": "Website link is an archive."
+        }
+    ],
+    "absinthe": [
+        {
+            "Name": "Absinthe",
+            "LatestVersion": "2.0.4",
+            "Website": "https://www.theiphonewiki.com/wiki/Absinthe",
+            "Versions": "5.0 - 5.1.1 v2",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/absinthe.png",
+            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/At8D1Z6R)"
+        }
+    ],
+    "ac1dsn0w": [
+        {
+            "Name": "Ac1dSn0w",
+            "LatestVersion": "Beta 2",
+            "Website": "https://www.theiphonewiki.com/wiki/Ac1dSn0w",
+            "Versions": "5.0 - 5.0.1",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/ac1dsn0w.png",
+            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/Bg9RVKbY)"
+        }
+    ],
+    "breezy": [
+        {
+            "Name": "Breezy",
+            "LatestVersion": "20070908",
+            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/l48nhCLC)",
+            "Versions": "1.0 - 1.0.2",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/breezy.png",
+            "Notes": "Website link is an archive."
+        }
+    ],
+    "etasonjb": [
+        {
+            "Name": "etasonJB",
+            "LatestVersion": "RC5",
+            "Website": "http://tihmstar.net/etasonjb/",
+            "Versions": "8.4.1",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/etasonjb.png",
+            "Notes": "N/A"
+        }
+    ],
+    "geeksn0w": [
+        {
+            "Name": "geeksn0w",
+            "LatestVersion": "2.9.1",
+            "Website": "https://www.theiphonewiki.com/wiki/Geeksn0w",
+            "Versions": "7.1.x",
+            "Type": "Semi-tethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/geeksn0w.png",
+            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/op1ThAia)"
+        }
+    ],
+    "greenpois0n": [
+        {
+            "Name": "greenpois0n",
+            "LatestVersion": "RC6",
+            "Website": "https://www.theiphonewiki.com/wiki/Greenpois0n_(jailbreak)",
+            "Versions": "3.2.2 - 4.2.6",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/greenpois0n.png",
+            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/9ltmhKCb)"
+        }
+    ],
+    "ijailbreak": [
+        {
+            "Name": "iJailbreak",
+            "LatestVersion": "0",
+            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/5hsmzKQK)",
+            "Versions": "1.1.1 - 1.1.4",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/ijailbreak.png",
+            "Notes": "Website link is an archive."
+        }
+    ],
+    "iliberty": [
+        {
+            "Name": "iLiberty+",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/iliberty.png",
+            "Notes": "N/A"
+        }
+    ],
+    "independence": [
+        {
+            "Name": "iNdependence",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/independence.png",
+            "Notes": "N/A"
+        }
+    ],
+    "purplera1n": [
+        {
+            "Name": "purplera1n",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/purplera1n.png",
+            "Notes": "N/A"
+        }
+    ],
+    "pusher": [
+        {
+            "Name": "Pusher",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Semi-untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/pusher.png",
+            "Notes": "N/A"
+        }
+    ],
+    "quickfreedom": [
+        {
+            "Name": "Quick Freedom",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/quickfreedom.png",
+            "Notes": "N/A"
+        }
+    ],
+    "quicktether": [
+        {
+            "Name": "QuickTether",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Semi-untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/quicktether.png",
+            "Notes": "N/A"
+        }
+    ],
+    "quickpwn": [
+        {
+            "Name": "QuickPwn",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Semi-untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/quickpwn.png",
+            "Notes": "N/A"
+        }
+    ],
+    "redtool": [
+        {
+            "Name": "RedTool",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/redtool.png",
+            "Notes": "N/A"
+        }
+    ],
+    "saigon": [
+        {
+            "Name": "Saïgon",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Semi-untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/saigon.png",
+            "Notes": "N/A"
+        }
+    ],
+    "untetherizer": [
+        {
+            "Name": "Untetherizer",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Semi-untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/untetherizer.png",
+            "Notes": "N/A"
+        }
+    ],
+    "unthreadera1n": [
+        {
+            "Name": "unthreadera1n",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Semi-untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/unthreadera1n.png",
+            "Notes": "N/A"
+        }
+    ],
+    "unthredeh4il": [
+        {
+            "Name": "unthredeh4il",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Semi-untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/unthredeh4il.png",
+            "Notes": "N/A"
+        }
+    ],
+    "ziphone": [
+        {
+            "Name": "ZiPhone",
+            "LatestVersion": "0",
+            "Website": "https://",
+            "Versions": "1 - 1",
+            "Type": "Semi-untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/ziphone.png",
+            "Notes": "N/A"
         }
     ]
 }
