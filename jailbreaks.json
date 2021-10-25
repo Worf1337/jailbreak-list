@@ -269,7 +269,7 @@
     "pangu8": [
         {
             "Name": "Pangu8",
-            "LatestVersion": "1.2.1 (Windows) / 1.0.0 (OS X)",
+            "LatestVersion": "1.2.1 (Windows)]\n1.0.0 (OS X)",
             "Website": "https://www.theiphonewiki.com/wiki/Pangu8",
             "Versions": "8.0 - 8.1",
             "Type": "Untethered",
@@ -280,7 +280,7 @@
     "pangu": [
         {
             "Name": "Pangu",
-            "LatestVersion": "1.2.1 (Windows) / 1.2.0 (OS X)",
+            "LatestVersion": "1.2.1 (Windows)\n1.2.0 (OS X)",
             "Website": "https://www.theiphonewiki.com/wiki/Pangu",
             "Versions": "7.1.x",
             "Type": "Untethered",
@@ -302,7 +302,7 @@
     "taig": [
         {
             "Name": "TaiG",
-            "LatestVersion": "1.2.1 (8.0 ‑ 8.1.2) (Windows)\n2.4.5 (8.1.3 ‑ 8.4) (Windows)\n(OS X) 1.1.0 (8.1.3 ‑ 8.4)",
+            "LatestVersion": "1.2.1 (8.0 ‑ 8.1.2) (Windows)\n2.4.5 (8.1.3 ‑ 8.4) (Windows)\n1.1.0 (8.1.3 ‑ 8.4)(OS X)",
             "Website": "http://www.taig.com/en/",
             "Versions": "8.0 - 8.4",
             "Type": "Untethered",
@@ -319,6 +319,17 @@
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
             "Notes": "Highly not recommended for usage."
+        }
+    ],
+    "ragebreak": [
+        {
+            "Name": "RageBreak",
+            "LatestVersion": "121",
+            "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/NptWhIKD",
+            "Versions": "7.0 - 7.0.4",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
+            "Notes": "Website link is an archive."
         }
     ]
 }
