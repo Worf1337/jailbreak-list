@@ -100,7 +100,7 @@
             "Name": "TotallyNotSpyware",
             "LatestVersion": "N/A",
             "Website": "https://totally-not.spyware.lol/",
-            "Versions": "10.0 - 10.3.4",
+            "Versions": "10.0 - 10.3.3",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/totallynotspyware.png"
         }
@@ -133,7 +133,7 @@
             "Versions": "10.0 - 10.3.4",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/sockh3lix.png",
-            "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly)."
+            "Notes": "A modified version of h3lix using the superior sock_port exploit. Install with [Sideloadly](https://guides.stkc.win/sideloadly)."
         }
     ],
     "phoenix": [
