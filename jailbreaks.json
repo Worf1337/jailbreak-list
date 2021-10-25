@@ -318,7 +318,7 @@
             "Versions": "7.0 - 7.0.4",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/ragebreak.png",
-            "Notes": "Website link is an archive."
+            "Notes": "Website link is an archived download."
         }
     ],
     "absinthe": [
@@ -351,7 +351,7 @@
             "Versions": "1.0 - 1.0.2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/breezy.png",
-            "Notes": "Website link is an archive."
+            "Notes": "Website link is an archived download."
         }
     ],
     "etasonjb": [
@@ -394,7 +394,7 @@
             "Versions": "1.1.1 - 1.1.4",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/ijailbreak.png",
-            "Notes": "Website link is an archive."
+            "Notes": "Website link is an archived download."
         }
     ],
     "iliberty": [
@@ -404,7 +404,8 @@
             "Website": "https://stkc.win/",
             "Versions": "1 - 1",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/iliberty.png"
+            "Icon": "https://assets.stkc.win/jailbreaks/iliberty.png",
+            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/9ltmhKCb)"
         }
     ],
     "independence": [
@@ -414,7 +415,8 @@
             "Website": "https://stkc.win/",
             "Versions": "1 - 1",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/independence.png"
+            "Icon": "https://assets.stkc.win/jailbreaks/independence.png",
+            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/9ltmhKCb)"
         }
     ],
     "purplera1n": [
@@ -424,7 +426,8 @@
             "Website": "https://stkc.win/",
             "Versions": "1 - 1",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/purplera1n.png"
+            "Icon": "https://assets.stkc.win/jailbreaks/purplera1n.png",
+            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/9ltmhKCb)"
         }
     ],
     "pusher": [
@@ -434,47 +437,50 @@
             "Website": "https://stkc.win/",
             "Versions": "1 - 1",
             "Type": "Semi-untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/pusher.png"
+            "Icon": "https://assets.stkc.win/jailbreaks/pusher.png",
+            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/9ltmhKCb)"
         }
     ],
     "quickfreedom": [
         {
-            "Name": "Quick Freedom",
-            "LatestVersion": "N/A",
-            "Website": "https://stkc.win/",
-            "Versions": "1 - 1",
+            "Name": "QuickTether/Quick Freedom",
+            "LatestVersion": "200Beta",
+            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/4590GKZC)",
+            "Versions": "iPhoneOS 2.2.1 v2",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/quickfreedom.png"
+            "Icon": "https://assets.stkc.win/jailbreaks/quickfreedom.png",
         }
     ],
     "quicktether": [
         {
-            "Name": "QuickTether",
-            "LatestVersion": "N/A",
-            "Website": "https://stkc.win/",
-            "Versions": "1 - 1",
-            "Type": "Semi-untethered",
+            "Name": "QuickTether/Quick Freedom",
+            "LatestVersion": "200Beta",
+            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/4590GKZC)",
+            "Versions": "iPhoneOS 2.2.1 v2",
+            "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/quicktether.png"
         }
     ],
     "quickpwn": [
         {
             "Name": "QuickPwn",
-            "LatestVersion": "N/A",
-            "Website": "https://stkc.win/",
-            "Versions": "1 - 1",
-            "Type": "Semi-untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/quickpwn.png"
+            "LatestVersion": "3.0 Beta 3",
+            "Website": "https://www.theiphonewiki.com/wiki/QuickPwn",
+            "Versions": "2.0 -  3.0 Beta 3",
+            "Type": "Untethered",
+            "Icon": "https://assets.stkc.win/jailbreaks/quickpwn.png",
+            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/50lHETyB)"
         }
     ],
     "redtool": [
         {
             "Name": "RedTool",
-            "LatestVersion": "N/A",
-            "Website": "https://stkc.win/",
-            "Versions": "1 - 1",
+            "LatestVersion": "1.0",
+            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/N0E22KRY)",
+            "Versions": "N/A",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/redtool.png"
+            "Icon": "https://assets.stkc.win/jailbreaks/redtool.png",
+            "Notes": "Website link is an archived download."
         }
     ],
     "saigon": [
@@ -496,7 +502,7 @@
             "Versions": "Unknown",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/untetherizer.png",
-            "Notes": "Website link is an archive download from 3/15/2009"
+            "Notes": "Website link is an archived download from 3/15/2009."
         }
     ],
     "unthreadera1n": [
