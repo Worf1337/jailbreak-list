@@ -139,7 +139,7 @@
     "phoenix": [
         {
             "Name": "Phœnix",
-            "LatestVersion": "6",
+            "LatestVersion": "v6",
             "Website": "https://phoenixpwn.com/",
             "Versions": "9.3.5 - 9.3.6",
             "Type": "Semi-untethered",
@@ -167,7 +167,7 @@
             "Icon": "https://assets.stkc.win/jailbreaks/doubleh3lix.png"
         }
     ],
-    "iBrickr": [
+    "ibrickr": [
         {
             "Name": "iBrickr",
             "LatestVersion": "v0.91",
@@ -200,7 +200,7 @@
             "Notes": "N/A"
         }
     ],
-    "PwnageTool": [
+    "pwnagetool": [
         {
             "Name": "PwnageTool",
             "LatestVersion": "5.1.1",
@@ -222,7 +222,7 @@
             "Notes": "N/A"
         }
     ],
-    "Spirit": [
+    "spirit": [
         {
             "Name": "Spirit",
             "LatestVersion": "",
@@ -255,7 +255,7 @@
             "Notes": "Abandoned and superceded by doubleH3lix"
         }
     ],
-    "Pangu9": [
+    "pangu9": [
         {
             "Name": "Pangu9",
             "LatestVersion": "1.3.2 (Windows) / 1.1.1 (OS X) / 1.0.0 (Apple TV 4)",
@@ -266,7 +266,7 @@
             "Notes": "n/a"
         }
     ],
-    "Pangu8": [
+    "pangu8": [
         {
             "Name": "Pangu8",
             "LatestVersion": "1.2.1 (Windows) / 1.0.0 (OS X)",
@@ -277,7 +277,7 @@
             "Notes": "N/A"
         }
     ],
-    "Pangu": [
+    "pangu": [
         {
             "Name": "Pangu",
             "LatestVersion": "1.2.1 (Windows) / 1.2.0 (OS X)",
@@ -288,7 +288,7 @@
             "Notes": "N/A"
         }
     ],
-    "Home Depot": [
+    "home depot": [
         {
             "Name": "Home Depot",
             "LatestVersion": "v1.1 beta 1",
@@ -299,18 +299,7 @@
             "Notes": "The 1.1 beta supported iOS 8.4.1 http://wall.supplies/OLD%20iPhone%20HACKED.html. A list of offsets: http://www.wall.supplies/offsets/"
         }
     ],
-    "Phoenix": [
-        {
-            "Name": "Phœnix",
-            "LatestVersion": "v6",
-            "Website": "https://www.phoenixpwn.com/",
-            "Versions": "9.3.5 - 9.3.6",
-            "Type": "Semi-untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
-            "Notes": "N/A"
-        }
-    ],
-    "TaiG": [
+    "taig": [
         {
             "Name": "TaiG",
             "LatestVersion": "1.2.1 (8.0 ‑ 8.1.2) (Windows), 2.4.5 (8.1.3 ‑ 8.4) (Windows), (OS X) 1.1.0 (8.1.3 ‑ 8.4)",
@@ -321,7 +310,7 @@
             "Notes": "N/A"
         }
     ],
-    "PPJailbreak": [
+    "ppjailbreak": [
         {
             "Name": "PPJailbreak",
             "LatestVersion": "2.5.1",
@@ -331,5 +320,7 @@
             "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
             "Notes": "Highly not recommended for usage."
         }
+    
+    
     ]
 }
