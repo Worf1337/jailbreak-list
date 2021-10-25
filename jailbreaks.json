@@ -314,7 +314,7 @@
         {
             "Name": "RageBreak",
             "LatestVersion": "121",
-            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/NptWhIKD)",
+            "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/NptWhIKD",
             "Versions": "7.0 - 7.0.4",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/ragebreak.png",
@@ -347,7 +347,7 @@
         {
             "Name": "Breezy",
             "LatestVersion": "20070908",
-            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/l48nhCLC)",
+            "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/l48nhCLC",
             "Versions": "1.0 - 1.0.2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/breezy.png",
@@ -390,7 +390,7 @@
         {
             "Name": "iJailbreak",
             "LatestVersion": "0.5.4",
-            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/5hsmzKQK)",
+            "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/5hsmzKQK",
             "Versions": "1.1.1 - 1.1.4",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/ijailbreak.png",
@@ -400,9 +400,9 @@
     "iliberty": [
         {
             "Name": "iLiberty+",
-            "LatestVersion": "N/A",
+            "LatestVersion": "iLiberty+ 1.3.0.113 (Windows)\n1.6_RC3 (OS X)",
             "Website": "https://stkc.win/",
-            "Versions": "1 - 1",
+            "Versions": "1.0 - 1.1.5",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/iliberty.png",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/9ltmhKCb)"
@@ -411,41 +411,41 @@
     "independence": [
         {
             "Name": "iNdependence",
-            "LatestVersion": "N/A",
-            "Website": "https://stkc.win/",
-            "Versions": "1 - 1",
+            "LatestVersion": "v1.4",
+            "Website": "https://code.google.com/archive/p/independence/",
+            "Versions": "1.0 - 1.1.4",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/independence.png",
-            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/9ltmhKCb)"
+            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/40Fz3QRRa)"
         }
     ],
     "purplera1n": [
         {
             "Name": "purplera1n",
-            "LatestVersion": "N/A",
-            "Website": "https://stkc.win/",
-            "Versions": "1 - 1",
+            "LatestVersion": "RC2a",
+            "Website": "http://purplera1n.com/",
+            "Versions": "3.0",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/purplera1n.png",
-            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/9ltmhKCb)"
+            "Notes": "purplera1n has been superceded by blackra1n.\n[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/UtFHnCrb)"
         }
     ],
     "pusher": [
         {
             "Name": "Pusher",
-            "LatestVersion": "N/A",
+            "LatestVersion": "1.1",
             "Website": "https://stkc.win/",
-            "Versions": "1 - 1",
-            "Type": "Semi-untethered",
+            "Versions": "2.0.2 - 2.2.1",
+            "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/pusher.png",
-            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/9ltmhKCb)"
+            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/19lWXQyT)"
         }
     ],
     "quickfreedom": [
         {
             "Name": "QuickTether/Quick Freedom",
             "LatestVersion": "200Beta",
-            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/4590GKZC)",
+            "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/4590GKZC",
             "Versions": "iPhoneOS 2.2.1 v2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/quickfreedom.png",
@@ -455,7 +455,7 @@
         {
             "Name": "QuickTether/Quick Freedom",
             "LatestVersion": "200Beta",
-            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/4590GKZC)",
+            "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/4590GKZC",
             "Versions": "iPhoneOS 2.2.1 v2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/quicktether.png"
@@ -476,7 +476,7 @@
         {
             "Name": "RedTool",
             "LatestVersion": "1.0",
-            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/N0E22KRY)",
+            "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/N0E22KRY",
             "Versions": "N/A",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/redtool.png",
@@ -498,7 +498,7 @@
         {
             "Name": "Untetherizer",
             "LatestVersion": "Unknown",
-            "Website": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/F08HkY5A)",
+            "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/F08HkY5A",
             "Versions": "Unknown",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/untetherizer.png",
