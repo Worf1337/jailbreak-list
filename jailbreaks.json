@@ -225,7 +225,7 @@
     "spirit": [
         {
             "Name": "Spirit",
-            "LatestVersion": "",
+            "LatestVersion": "N/A",
             "Website": "http://www.spiritjb.com/",
             "Versions": "3.1.2 - 3.2",
             "Type": "Untethered",
@@ -296,7 +296,7 @@
             "Versions": "8.4.1 and 9.1 - 9.3.4",
             "Type": "Untethered and Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
-            "Notes": "The 1.1 beta supported iOS 8.4.1 http://wall.supplies/OLD%20iPhone%20HACKED.html. A list of offsets: http://www.wall.supplies/offsets/"
+            "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app Legacy](https://jailbreaks.app/legacy.html).\nThe 1.1 beta supported [iOS 8.4.1](http://wall.supplies/OLD%20iPhone%20HACKED.html). List of [offsets](http://www.wall.supplies/offsets/). "
         }
     ],
     "taig": [
@@ -320,7 +320,5 @@
             "Icon": "https://assets.stkc.win/jailbreaks/noicon.png",
             "Notes": "Highly not recommended for usage."
         }
-    
-    
     ]
 }
