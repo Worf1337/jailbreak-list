@@ -18,7 +18,7 @@
             "Versions": "11.0 - 14.5.1",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/unc0ver.png",
-            "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app](https://jailbreaks.app/)."
+            "Notes": "On iOS 14.4+ you must run [Fugu14](https://github.com/LinusHenze/Fugu14) before using unc0ver.\nInstall with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app](https://jailbreaks.app/)."
         }
     ],
     "checkra1n": [
@@ -51,7 +51,7 @@
             "Versions": "12.0 - 12.5.5",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/chimera.png",
-            "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app](https://jailbreaks.app/)."
+            "Notes": "A12 support is only available on iOS 12.0 - 12.1.2.\nInstall with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app](https://jailbreaks.app/).\n"
         }
     ],
     "electra": [
