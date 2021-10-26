@@ -220,7 +220,7 @@
     "spirit": [
         {
             "Name": "Spirit",
-            "LatestVersion": "N/A",
+            "LatestVersion": "Unknown",
             "Website": "http://www.spiritjb.com/",
             "Versions": "3.1.2 - 3.2",
             "Type": "Untethered",
@@ -477,7 +477,7 @@
             "Name": "redTool",
             "LatestVersion": "1.0",
             "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/N0E22KRY",
-            "Versions": "N/A",
+            "Versions": "Unknown",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/redtool.png",
             "Notes": "Website link is an archived download."
@@ -508,7 +508,7 @@
     "unthreadera1n": [
         {
             "Name": "unthreadera1n",
-            "LatestVersion": "N/A",
+            "LatestVersion": "Unknown",
             "Website": "https://web.archive.org/web/20130806114927/http://unthreadedjb.com/",
             "Versions": "4.2.6 - 5.1.1",
             "Type": "Untethered",
@@ -519,7 +519,7 @@
     "unthredeh4il": [
         {
             "Name": "unthredeh4il",
-            "LatestVersion": "N/A",
+            "LatestVersion": "Unknown",
             "Website": "https://web.archive.org/web/20130806114927/http://unthreadedjb.com/",
             "Versions": "4.3.4 - 5.1.1",
             "Type": "Untethered",
