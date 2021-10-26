@@ -181,7 +181,7 @@
         {
             "Name": "blackra1n",
             "LatestVersion": "RC3",
-            "Website": "http://www.blackra1n.com/",
+            "Website": "https://www.blackra1n.com/",
             "Versions": "3.1 - 3.1.3",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/blackra1n.png"
@@ -211,7 +211,7 @@
         {
             "Name": "limera1n",
             "LatestVersion": "RC1b",
-            "Website": "http://limera1n.com//",
+            "Website": "https://limera1n.com/",
             "Versions": "3.2.2 - 4.2.1 v2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/limera1n.png"
@@ -221,7 +221,7 @@
         {
             "Name": "Spirit",
             "LatestVersion": "Unknown",
-            "Website": "http://www.spiritjb.com/",
+            "Website": "https://web.archive.org/web/20130630042315/https://spiritjb.com/",
             "Versions": "3.1.2 - 3.2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/spirit.png"
@@ -293,7 +293,7 @@
         {
             "Name": "TaiG",
             "LatestVersion": "1.2.1 (8.0 ‑ 8.1.2) (Windows)\n2.4.5 (8.1.3 ‑ 8.4) (Windows)\n1.1.0 (8.1.3 ‑ 8.4)(OS X)",
-            "Website": "http://www.taig.com/en/",
+            "Website": "https://web.archive.org/web/20210716144344/http://www.taig.com/en/",
             "Versions": "8.0 - 8.4",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/taig.png"
@@ -358,7 +358,7 @@
         {
             "Name": "etasonJB",
             "LatestVersion": "RC5",
-            "Website": "http://tihmstar.net/etasonjb/",
+            "Website": "https://etasonjb.tihmstar.net/",
             "Versions": "8.4.1",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/etasonjb.png"
