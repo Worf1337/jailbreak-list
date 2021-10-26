@@ -314,11 +314,11 @@
         {
             "Name": "RageBreak",
             "LatestVersion": "121",
-            "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/NptWhIKD",
+            "Website": "http://web.archive.org/web/20140216122014/http://ragemasta.com/jb.html",
             "Versions": "7.0 - 7.0.4",
-            "Type": "Untethered",
+            "Type": "Tethered",
             "Icon": "https://assets.stkc.win/jailbreaks/ragebreak.png",
-            "Notes": "Website link is an archived download."
+            "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/NptWhIKD)"
         }
     ],
     "absinthe": [
@@ -477,7 +477,7 @@
             "Name": "redTool",
             "LatestVersion": "1.0",
             "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/N0E22KRY",
-            "Versions": "Unknown",
+            "Versions": "2.2.1",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/redtool.png",
             "Notes": "Website link is an archived download."
