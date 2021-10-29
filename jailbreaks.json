@@ -18,7 +18,7 @@
             "Versions": "11.0 - 14.5.1",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/unc0ver.png",
-            "Notes": "Install with [AltStore](https://altstore.io/) or from [jailbreaks.app](https://jailbreaks.app/)."
+            "Notes": "On iOS 14.4+ install with [AltStore](https://altstore.io/), otherwise use [Sideloadly](https://guides.stkc.win/sideloadly) or [jailbreaks.app](https://jailbreaks.app/)."
         }
     ],
     "checkra1n": [
