@@ -13,12 +13,12 @@
     "unc0ver": [
         {
             "Name": "unc0ver",
-            "LatestVersion": "7.0.0",
+            "LatestVersion": "7.0.1",
             "Website": "https://unc0ver.dev/",
             "Versions": "11.0 - 14.5.1",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/unc0ver.png",
-            "Notes": "On iOS 14.4+ you must run [Fugu14](https://github.com/LinusHenze/Fugu14) before using unc0ver.\nInstall with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app](https://jailbreaks.app/)."
+            "Notes": "Install with [AltStore](https://altstore.io/) or from [jailbreaks.app](https://jailbreaks.app/)."
         }
     ],
     "checkra1n": [
