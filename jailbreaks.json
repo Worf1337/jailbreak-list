@@ -19,7 +19,8 @@
             "Versions": "11.0 - 14.5.1",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/unc0ver.png",
-            "Notes": "iOS 14.4 - 14.5.1 support is only available on A12+ devices. A tutorial is available [here](https://www.idownloadblog.com/2021/10/29/how-to-fugu14-untether-unc0ver-jailbreak-with-altstore/). Older devices on iOS 11.0 - 14.3 and can install with [Sideloadly](https://guides.stkc.win/sideloadly) or [jailbreaks.app](https://jailbreaks.app/)."
+            "Notes": "iOS 14.4 - 14.5.1 support is only available on A12+ devices. Older devices on iOS 11.0 - 14.3 and can install with [Sideloadly](https://guides.stkc.win/sideloadly) or [jailbreaks.app](https://jailbreaks.app/).",
+            "Guide": "https://www.idownloadblog.com/2021/10/29/how-to-fugu14-untether-unc0ver-jailbreak-with-altstore/"
         }
     ],
     "checkra1n": [
