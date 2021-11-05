@@ -8,7 +8,7 @@
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/taurine.png",
             "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app](https://jailbreaks.app/).",
-            "Guide": "https://ios.cfw.guide/installing-taurine/"
+            "Guide": "https://ios.cfw.guide/installing-taurine"
         }
     ],
     "unc0ver": [
@@ -20,7 +20,7 @@
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/unc0ver.png",
             "Notes": "iOS 14.4 - 14.5.1 support is only available on A12+ devices. Older devices on iOS 11.0 - 14.3 and can install with [Sideloadly](https://guides.stkc.win/sideloadly) or [jailbreaks.app](https://jailbreaks.app/).",
-            "Guide": "https://www.idownloadblog.com/2021/10/29/how-to-fugu14-untether-unc0ver-jailbreak-with-altstore/"
+            "Guide": "https://go.stkc.win/u0-fugu14-altstore"
         }
     ],
     "checkra1n": [
@@ -32,7 +32,7 @@
             "Type": "Semi-tethered",
             "Icon": "https://assets.stkc.win/jailbreaks/checkra1n.png",
             "Notes": "Compatible with A7 - A11 devices. A11 devices on iOS 14 cannot use a passcode, Touch ID, Face ID, or Apple Pay in a jailbroken state.",
-            "Guide": "https://ios.cfw.guide/installing-odysseyra1n/"
+            "Guide": "https://ios.cfw.guide/installing-odysseyra1n"
         }
     ],
     "odyssey": [
@@ -44,7 +44,7 @@
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/odyssey.png",
             "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app](https://jailbreaks.app/).",
-            "Guide": "https://ios.cfw.guide/installing-odyssey/"
+            "Guide": "https://ios.cfw.guide/installing-odyssey"
         }
     ],
     "chimera": [
@@ -56,7 +56,7 @@
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/chimera.png",
             "Notes": "A12 support is only available on iOS 12.0 - 12.1.2.\nInstall with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app](https://jailbreaks.app/).\n",
-            "Guide": "https://ios.cfw.guide/installing-chimera/"
+            "Guide": "https://ios.cfw.guide/installing-chimera"
         }
     ],
     "electra": [
@@ -68,7 +68,7 @@
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/electra.png",
             "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app](https://jailbreaks.app/).",
-            "Guide": "https://ios.cfw.guide/installing-electra/"
+            "Guide": "https://ios.cfw.guide/installing-electra"
         }
     ],
     "p0sixspwn": [
@@ -79,7 +79,7 @@
             "Versions": "6.1.3 - 6.1.6",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/p0sixspwn.png",
-            "Guide": "https://ios.cfw.guide/installing-p0sixspwn/"
+            "Guide": "https://ios.cfw.guide/installing-p0sixspwn"
         }
     ],
     "evasi0n": [
@@ -100,7 +100,7 @@
             "Versions": "7.0 - 7.0.6",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/evasi0n.png",
-            "Guide": "https://ios.cfw.guide/installing-evasi0n7/"
+            "Guide": "https://ios.cfw.guide/installing-evasi0n7"
         }
     ],
     "totallynotspyware": [
@@ -131,7 +131,7 @@
             "Versions": "10.0 - 10.3.4",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/h3lix.png",
-            "Guide": "https://ios.cfw.guide/installing-h3lix/"
+            "Guide": "https://ios.cfw.guide/installing-h3lix"
         }
     ],
     "sockh3lix": [
@@ -154,7 +154,7 @@
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/phoenix.png",
             "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app Legacy](https://jailbreaks.app/legacy.html).",
-            "Guide": "https://ios.cfw.guide/installing-phoenix/"
+            "Guide": "https://ios.cfw.guide/installing-phoenix"
         }
     ],
     "meridian": [
@@ -165,7 +165,7 @@
             "Versions": "10.0 - 10.3.4",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/meridian.png",
-            "Guide": "https://ios.cfw.guide/using-meridian/"
+            "Guide": "https://ios.cfw.guide/using-meridian"
         }
     ],
     "doubleh3lix": [
@@ -176,7 +176,7 @@
             "Versions": "10.0 - 10.3.4",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/doubleh3lix.png",
-            "Guide": "https://ios.cfw.guide/installing-doubleh3lix/"
+            "Guide": "https://ios.cfw.guide/installing-doubleh3lix"
         }
     ],
     "ibrickr": [
@@ -268,7 +268,7 @@
             "Versions": "9.0 - 9.3.3",
             "Type": "Untethered and Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/pangu9.png",
-            "Guide": "https://ios.cfw.guide/installing-pangu9/"
+            "Guide": "https://ios.cfw.guide/installing-pangu9"
         }
     ],
     "pangu8": [
@@ -289,7 +289,7 @@
             "Versions": "7.1.x",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/pangu.png",
-            "Guide": "https://ios.cfw.guide/installing-pangu7/"
+            "Guide": "https://ios.cfw.guide/installing-pangu7"
         }
     ],
     "home depot": [
@@ -300,8 +300,8 @@
             "Versions": "8.4.1 and 9.1 - 9.3.4",
             "Type": "Untethered and Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/homedepot.png",
-            "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app Legacy](https://jailbreaks.app/legacy.html).\nThe 1.1 beta supported [iOS 8.4.1](http://wall.supplies/OLD%20iPhone%20HACKED.html). List of [offsets](http://www.wall.supplies/offsets/).",
-            "Guide": "https://ios.cfw.guide/installing-homedepot/"
+            "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app Legacy](https://jailbreaks.app/legacy.html).\nThe 1.1 beta supported [iOS 8.4.1](http://wall.supplies/OLD%20iPhone%20HACKED.html). List of [offsets](http://www.wall.supplies/offsets).",
+            "Guide": "https://ios.cfw.guide/installing-homedepot"
         }
     ],
     "taig": [
@@ -377,7 +377,7 @@
             "Versions": "8.4.1",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/etasonjb.png",
-            "Guide": "https://ios.cfw.guide/installing-etasonjb/"
+            "Guide": "https://ios.cfw.guide/installing-etasonjb"
         }
     ],
     "geeksn0w": [
