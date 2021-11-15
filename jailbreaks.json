@@ -7,6 +7,7 @@
             "Versions": "14.0 - 14.3",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/taurine.png",
+            "Color": "#6742cd",
             "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app](https://jailbreaks.app/).",
             "Guide": "https://ios.cfw.guide/installing-taurine"
         }
@@ -19,6 +20,7 @@
             "Versions": "11.0 - 14.5.1",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/unc0ver.png",
+            "Color": "#111111",
             "Notes": "iOS 14.4 - 14.5.1 support is only available on A12+ devices. Older devices on iOS 11.0 - 14.3 and can install with [Sideloadly](https://guides.stkc.win/sideloadly) or [jailbreaks.app](https://jailbreaks.app/).",
             "Guide": "https://go.stkc.win/u0-fugu14-altstore"
         }
@@ -31,6 +33,7 @@
             "Versions": "12.0 - 14.8.1",
             "Type": "Semi-tethered",
             "Icon": "https://assets.stkc.win/jailbreaks/checkra1n.png",
+            "Color": "#4d4d4d",
             "Notes": "Compatible with A7 - A11 devices. A11 devices on iOS 14 cannot use a passcode, Touch ID, Face ID, or Apple Pay in a jailbroken state.",
             "Guide": "https://ios.cfw.guide/installing-odysseyra1n"
         }
@@ -43,6 +46,7 @@
             "Versions": "13.0 - 13.7",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/odyssey.png",
+            "Color": "#faf4f7",
             "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app](https://jailbreaks.app/).",
             "Guide": "https://ios.cfw.guide/installing-odyssey"
         }
