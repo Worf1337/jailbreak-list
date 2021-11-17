@@ -558,5 +558,15 @@
             "Icon": "https://assets.stkc.win/jailbreaks/ziphone.png",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/I8lRwKAS)"
         }
+    ],
+    "p0insettia": [
+        {
+            "Name": "p0insettia",
+            "LatestVersion": "10.3.x",
+            "Website": "https://dora2ios.web.app/p0insettia.html",
+            "Versions": "1.0 beta 1",
+            "Type": "Semi-untethered",
+            "Notes": "A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit."
+        }
     ]
 }
