@@ -191,7 +191,8 @@
             "Website": "https://ibrickr.com/",
             "Versions": "1.0 - 1.0.2",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/ibrickr.png"
+            "Icon": "https://assets.stkc.win/jailbreaks/ibrickr.png",
+            "Color": "#d08f74"
         }
     ],
     "blackra1n": [
