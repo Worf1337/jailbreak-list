@@ -72,6 +72,7 @@
             "Versions": "11.0 - 11.4.1",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/electra.png",
+            "Color": "#465868",
             "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app](https://jailbreaks.app/).",
             "Guide": "https://ios.cfw.guide/installing-electra"
         }
@@ -84,6 +85,7 @@
             "Versions": "6.1.3 - 6.1.6",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/p0sixspwn.png",
+            "Color": "#c4c5cc",
             "Guide": "https://ios.cfw.guide/installing-p0sixspwn"
         }
     ],
@@ -95,6 +97,7 @@
             "Versions": "6.0 - 6.1.2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/evasi0n.png"
+            "Color": "#FFFFFF",
         }
     ],
     "evasi0n7": [
@@ -105,6 +108,7 @@
             "Versions": "7.0 - 7.0.6",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/evasi0n.png",
+            "Color": "#FFFFFF",
             "Guide": "https://ios.cfw.guide/installing-evasi0n7"
         }
     ],
@@ -116,6 +120,7 @@
             "Versions": "10.0 - 10.3.3",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/totallynotspyware.png"
+            "Color": "#e5c67c",
         }
     ],
     "redsn0w": [
@@ -126,6 +131,7 @@
             "Versions": "2.1.1 - 6.1.6",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/redsn0w.png"
+            "Color": "#2d95f7",
         }
     ],
     "h3lix": [
@@ -136,6 +142,7 @@
             "Versions": "10.0 - 10.3.4",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/h3lix.png",
+            "Color": "#FFFFFF",
             "Guide": "https://ios.cfw.guide/installing-h3lix"
         }
     ],
@@ -147,6 +154,7 @@
             "Versions": "10.0 - 10.3.4",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/sockh3lix.png",
+            "Color": "#2d95f7",
             "Notes": "A modified version of h3lix using the superior sock_port exploit. Install with [Sideloadly](https://guides.stkc.win/sideloadly)."
         }
     ],
@@ -158,6 +166,7 @@
             "Versions": "9.3.5 - 9.3.6",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/phoenix.png",
+            "Color": "#000000",
             "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app Legacy](https://jailbreaks.app/legacy.html).",
             "Guide": "https://ios.cfw.guide/installing-phoenix"
         }
@@ -170,6 +179,7 @@
             "Versions": "10.0 - 10.3.4",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/meridian.png",
+            "Color": "#077a9e",
             "Guide": "https://ios.cfw.guide/using-meridian"
         }
     ],
@@ -181,6 +191,7 @@
             "Versions": "10.0 - 10.3.4",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/doubleh3lix.png",
+            "Color": "#077a9e",
             "Guide": "https://ios.cfw.guide/installing-doubleh3lix"
         }
     ],
@@ -203,6 +214,7 @@
             "Versions": "3.1 - 3.1.3",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/blackra1n.png"
+            "Color": "#000000",
         }
     ],
     "sn0wbreeze": [
@@ -213,6 +225,7 @@
             "Versions": "3.1.2 - 6.1.3",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/sn0wbreeze.png"
+            "Color": "#b9e8fb",
         }
     ],
     "pwnagetool": [
@@ -223,6 +236,7 @@
             "Versions": "1.1.4 - iOS 5.1.1 v2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/pwnagetool.png"
+            "Color": "#d0cfd1",
         }
     ],
     "limera1n": [
@@ -233,6 +247,7 @@
             "Versions": "3.2.2 - 4.2.1 v2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/limera1n.png"
+            "Color": "#bcdfa4",
         }
     ],
     "spirit": [
@@ -243,6 +258,7 @@
             "Versions": "3.1.2 - 3.2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/spirit.png"
+            "Color": "#c3cae8",
         }
     ],
     "yalu": [
@@ -253,6 +269,7 @@
             "Versions": "10.1 - 10.2",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/yalu.png"
+            "Color": "#4b4b4b",
         }
     ],
     "g0blin": [
@@ -263,6 +280,7 @@
             "Versions": "10.3.x",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/g0blin.png",
+            "Color": "#8105f3",
             "Notes": "Abandoned and superceded by doubleH3lix"
         }
     ],
@@ -274,6 +292,7 @@
             "Versions": "9.0 - 9.3.3",
             "Type": "Untethered and Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/pangu9.png",
+            "Color": "#FFFFFF",
             "Guide": "https://ios.cfw.guide/installing-pangu9"
         }
     ],
@@ -285,6 +304,7 @@
             "Versions": "8.0 - 8.1",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/pangu8.png"
+            "Color": "#FFFFFF",
         }
     ],
     "pangu": [
@@ -295,6 +315,7 @@
             "Versions": "7.1.x",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/pangu.png",
+            "Color": "#FFFFFF",
             "Guide": "https://ios.cfw.guide/installing-pangu7"
         }
     ],
@@ -306,6 +327,7 @@
             "Versions": "8.4.1 and 9.1 - 9.3.4",
             "Type": "Untethered and Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/homedepot.png",
+            "Color": "#ba8eb6",
             "Notes": "Install with [Sideloadly](https://guides.stkc.win/sideloadly) or from [jailbreaks.app Legacy](https://jailbreaks.app/legacy.html).\nThe 1.1 beta supported [iOS 8.4.1](http://wall.supplies/OLD%20iPhone%20HACKED.html). List of [offsets](http://www.wall.supplies/offsets).",
             "Guide": "https://ios.cfw.guide/installing-homedepot"
         }
@@ -318,6 +340,7 @@
             "Versions": "8.0 - 8.4",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/taig.png"
+            "Color": "#c8e381",
         }
     ],
     "ppjailbreak": [
@@ -328,6 +351,7 @@
             "Versions": "8.0 - 8.4",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/ppjailbreak.png",
+            "Color": "#04145b",
             "Notes": "Highly not recommended for usage."
         }
     ],
@@ -339,6 +363,7 @@
             "Versions": "7.0 - 7.0.4",
             "Type": "Tethered",
             "Icon": "https://assets.stkc.win/jailbreaks/ragebreak.png",
+            "Color": "#0794f7",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/NptWhIKD)"
         }
     ],
@@ -350,6 +375,7 @@
             "Versions": "5.0 - 5.1.1 v2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/absinthe.png",
+            "Color": "#78ef76",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/At8D1Z6R)"
         }
     ],
@@ -361,6 +387,7 @@
             "Versions": "5.0 - 5.0.1",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/ac1dsn0w.png",
+            "Color": "#FFFFFF",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/Bg9RVKbY)"
         }
     ],
@@ -372,6 +399,7 @@
             "Versions": "1.0 - 1.0.2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/breezy.png",
+            "Color": "#000000",
             "Notes": "Website link is an archived download."
         }
     ],
@@ -383,6 +411,7 @@
             "Versions": "8.4.1",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/etasonjb.png",
+            "Color": "#2e8bec",
             "Guide": "https://ios.cfw.guide/installing-etasonjb"
         }
     ],
@@ -394,6 +423,7 @@
             "Versions": "7.1.x",
             "Type": "Semi-tethered",
             "Icon": "https://assets.stkc.win/jailbreaks/geeksn0w.png",
+            "Color": "#FFFFFF",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/op1ThAia)"
         }
     ],
@@ -405,6 +435,7 @@
             "Versions": "3.2.2 - 4.2.6",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/greenpois0n.png",
+            "Color": "#5f7d5d",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/9ltmhKCb)"
         }
     ],
@@ -416,6 +447,7 @@
             "Versions": "1.1.1 - 1.1.4",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/ijailbreak.png",
+            "Color": "#000000",
             "Notes": "Website link is an archived download."
         }
     ],
@@ -427,6 +459,7 @@
             "Versions": "1.0 - 1.1.5",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/iliberty.png",
+            "Color": "#FFFFFF",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/9ltmhKCb)"
         }
     ],
@@ -438,6 +471,7 @@
             "Versions": "1.0 - 1.1.4",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/independence.png",
+            "Color": "#000000",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/40Fz3QRRa)"
         }
     ],
@@ -449,6 +483,7 @@
             "Versions": "3.0",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/purplera1n.png",
+            "Color": "#9775df",
             "Notes": "purplera1n has been superceded by blackra1n.\n[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/UtFHnCrb)"
         }
     ],
@@ -460,6 +495,7 @@
             "Versions": "2.0.2 - 2.2.1",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/pusher.png",
+            "Color": "#f5c968",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/19lWXQyT)"
         }
     ],
@@ -471,6 +507,7 @@
             "Versions": "iPhoneOS 2.2.1 v2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/quickfreedom.png"
+            "Color": "#3c3b3c",
         }
     ],
     "quicktether": [
@@ -481,6 +518,7 @@
             "Versions": "iPhoneOS 2.2.1 v2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/quicktether.png"
+            "Color": "#3c3b3c",
         }
     ],
     "quickpwn": [
@@ -491,6 +529,7 @@
             "Versions": "2.0 -  3.0 Beta 3",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/quickpwn.png",
+            "Color": "#dc5f60",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/50lHETyB)"
         }
     ],
@@ -502,6 +541,7 @@
             "Versions": "2.2.1",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/redtool.png",
+            "Color": "#dc5f60",
             "Notes": "Website link is an archived download."
         }
     ],
@@ -513,6 +553,7 @@
             "Versions": " 10.2.1",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/saigon.png",
+            "Color": "#3c3b3c",
             "Notes": "Website link is a web archive\n[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/ts80yRbY)"
         }
     ],
@@ -524,6 +565,7 @@
             "Versions": "Unknown",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/untetherizer.png",
+            "Color": "#000000",
             "Notes": "Website link is an archived download from 3/15/2009."
         }
     ],
@@ -535,6 +577,7 @@
             "Versions": "4.2.6 - 5.1.1",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/unthreadera1n.png",
+            "Color": "#dc5f60",
             "Notes": "Website link is a web archive\nunthredeh4il is an improved version of unthredera1n\n[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/FxkHjBbL)"
         }
     ],
@@ -546,6 +589,7 @@
             "Versions": "4.3.4 - 5.1.1",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/unthredeh4il.png",
+            "Color": "#ed9121",
             "Notes": "Website link is a web archive\nunthredeh4il is an improved version of unthredera1n.\nPlease look up unthredeh4il.\n[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/FxkHjBbL)"
         }
     ],
@@ -557,6 +601,7 @@
             "Versions": "1.1.3 - 1.1.5",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/ziphone.png",
+            "Color": "#ed9121",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/I8lRwKAS)"
         }
     ],
@@ -566,6 +611,7 @@
             "LatestVersion": "10.3.x",
             "Website": "https://dora2ios.web.app/p0insettia.html",
             "Versions": "1.0 beta 1",
+            "Color": "#FFFFFF",
             "Type": "Semi-untethered",
             "Notes": "A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit."
         }
