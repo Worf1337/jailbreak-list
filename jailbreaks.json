@@ -616,5 +616,41 @@
             "Type": "Untethered, semi-untethered, tethered",
             "Notes": "A tool for iOS 10.3.x 32-bit devices with checkm8 bootrom exploit."
         }
+    ],
+    "kok3shi": [
+        {
+            "Name": "kok3shi",
+            "LatestVersion": "9.3.5",
+            "Website": "https://dora2ios.web.app/kokeshiJB.html",
+            "Versions": "1.0 beta 2",
+            "Icon": "https://assets.stkc.win/jailbreaks/p0insettia.png",
+            "Color": "#f6b0f6",
+            "Type": "semi-untethered",
+            "Notes": "A tool for semi-untethered jailbreak: 64-bit iOS 9.3 - 9.3.5."
+        }
+    ],
+    "daibutsu": [
+        {
+            "Name": "daibutsu",
+            "LatestVersion": "8.4.1",
+            "Website": "https://dora2ios.web.app/daibutsu.html",
+            "Versions": "1.2.1 Release",
+            "Icon": "https://assets.stkc.win/jailbreaks/p0insettia.png",
+            "Color": "#f6b0f6",
+            "Type": "Untethered",
+            "Notes": "A tool for untethered iOS 8.4.1 jailbreak."
+        }
+    ],
+    "powdersn0w": [
+        {
+            "Name": "powdersn0w",
+            "LatestVersion": "6.1.4",
+            "Website": "https://dora2ios.web.app/konayuki/index.html",
+            "Versions": "2.0b3",
+            "Icon": "https://assets.stkc.win/jailbreaks/p0insettia.png",
+            "Color": "#f6b0f6",
+            "Type": "Untethered",
+            "Notes": "A tool for untethered downgrade or jailbreak devices."
+        }
     ]
 }
