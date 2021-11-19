@@ -97,7 +97,7 @@
             "Versions": "6.0 - 6.1.2",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/evasi0n.png",
-            "Color": "#FFFFFF"
+            "Color": "#ffffff"
         }
     ],
     "evasi0n7": [
@@ -108,7 +108,7 @@
             "Versions": "7.0 - 7.0.6",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/evasi0n.png",
-            "Color": "#FFFFFF",
+            "Color": "#ffffff",
             "Guide": "https://ios.cfw.guide/installing-evasi0n7"
         }
     ],
@@ -142,7 +142,7 @@
             "Versions": "10.0 - 10.3.4",
             "Type": "Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/h3lix.png",
-            "Color": "#FFFFFF",
+            "Color": "#ffffff",
             "Guide": "https://ios.cfw.guide/installing-h3lix"
         }
     ],
@@ -292,7 +292,7 @@
             "Versions": "9.0 - 9.3.3",
             "Type": "Untethered and Semi-untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/pangu9.png",
-            "Color": "#FFFFFF",
+            "Color": "#ffffff",
             "Guide": "https://ios.cfw.guide/installing-pangu9"
         }
     ],
@@ -304,7 +304,7 @@
             "Versions": "8.0 - 8.1",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/pangu8.png",
-            "Color": "#FFFFFF"
+            "Color": "#ffffff"
         }
     ],
     "pangu": [
@@ -315,7 +315,7 @@
             "Versions": "7.1.x",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/pangu.png",
-            "Color": "#FFFFFF",
+            "Color": "#ffffff",
             "Guide": "https://ios.cfw.guide/installing-pangu7"
         }
     ],
@@ -387,7 +387,7 @@
             "Versions": "5.0 - 5.0.1",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/ac1dsn0w.png",
-            "Color": "#FFFFFF",
+            "Color": "#ffffff",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/Bg9RVKbY)"
         }
     ],
@@ -423,7 +423,7 @@
             "Versions": "7.1.x",
             "Type": "Semi-tethered",
             "Icon": "https://assets.stkc.win/jailbreaks/geeksn0w.png",
-            "Color": "#FFFFFF",
+            "Color": "#ffffff",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/op1ThAia)"
         }
     ],
@@ -459,7 +459,7 @@
             "Versions": "1.0 - 1.1.5",
             "Type": "Untethered",
             "Icon": "https://assets.stkc.win/jailbreaks/iliberty.png",
-            "Color": "#FFFFFF",
+            "Color": "#ffffff",
             "Notes": "[Archived download](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/9ltmhKCb)"
         }
     ],
@@ -611,9 +611,10 @@
             "LatestVersion": "10.3.x",
             "Website": "https://dora2ios.web.app/p0insettia.html",
             "Versions": "1.0 beta 1",
-            "Color": "#FFFFFF",
+            "Icon": "https://assets.stkc.win/jailbreaks/p0insettia.png",
+            "Color": "#f6b0f6",
             "Type": "Semi-untethered",
-            "Notes": "A tool for [(semi-){un-(tethered jailbreak)}] of iOS 10.3.x 32-bit devices with checkm8 BootROM exploit."
+            "Notes": "A tool for iOS 10.3.x 32-bit devices with checkm8 bootrom exploit."
         }
     ]
 }
