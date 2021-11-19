@@ -96,8 +96,8 @@
             "Website": "https://www.theiphonewiki.com/wiki/Evasi0n",
             "Versions": "6.0 - 6.1.2",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/evasi0n.png"
-            "Color": "#FFFFFF",
+            "Icon": "https://assets.stkc.win/jailbreaks/evasi0n.png",
+            "Color": "#FFFFFF"
         }
     ],
     "evasi0n7": [
@@ -119,8 +119,8 @@
             "Website": "https://totally-not.spyware.lol/",
             "Versions": "10.0 - 10.3.3",
             "Type": "Semi-untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/totallynotspyware.png"
-            "Color": "#e5c67c",
+            "Icon": "https://assets.stkc.win/jailbreaks/totallynotspyware.png",
+            "Color": "#e5c67c"
         }
     ],
     "redsn0w": [
@@ -130,8 +130,8 @@
             "Website": "https://www.theiphonewiki.com/wiki/Redsn0w",
             "Versions": "2.1.1 - 6.1.6",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/redsn0w.png"
-            "Color": "#2d95f7",
+            "Icon": "https://assets.stkc.win/jailbreaks/redsn0w.png",
+            "Color": "#2d95f7"
         }
     ],
     "h3lix": [
@@ -213,8 +213,8 @@
             "Website": "https://www.blackra1n.com/",
             "Versions": "3.1 - 3.1.3",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/blackra1n.png"
-            "Color": "#000000",
+            "Icon": "https://assets.stkc.win/jailbreaks/blackra1n.png",
+            "Color": "#000000"
         }
     ],
     "sn0wbreeze": [
@@ -224,8 +224,8 @@
             "Website": "https://www.ih8sn0w.com/",
             "Versions": "3.1.2 - 6.1.3",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/sn0wbreeze.png"
-            "Color": "#b9e8fb",
+            "Icon": "https://assets.stkc.win/jailbreaks/sn0wbreeze.png",
+            "Color": "#b9e8fb"
         }
     ],
     "pwnagetool": [
@@ -235,8 +235,8 @@
             "Website": "https://www.theiphonewiki.com/wiki/PwnageTool",
             "Versions": "1.1.4 - iOS 5.1.1 v2",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/pwnagetool.png"
-            "Color": "#d0cfd1",
+            "Icon": "https://assets.stkc.win/jailbreaks/pwnagetool.png",
+            "Color": "#d0cfd1"
         }
     ],
     "limera1n": [
@@ -246,8 +246,8 @@
             "Website": "https://limera1n.com/",
             "Versions": "3.2.2 - 4.2.1 v2",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/limera1n.png"
-            "Color": "#bcdfa4",
+            "Icon": "https://assets.stkc.win/jailbreaks/limera1n.png",
+            "Color": "#bcdfa4"
         }
     ],
     "spirit": [
@@ -257,8 +257,8 @@
             "Website": "https://web.archive.org/web/20130630042315/https://spiritjb.com/",
             "Versions": "3.1.2 - 3.2",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/spirit.png"
-            "Color": "#c3cae8",
+            "Icon": "https://assets.stkc.win/jailbreaks/spirit.png",
+            "Color": "#c3cae8"
         }
     ],
     "yalu": [
@@ -268,8 +268,8 @@
             "Website": "https://www.theiphonewiki.com/wiki/Yalu",
             "Versions": "10.1 - 10.2",
             "Type": "Semi-untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/yalu.png"
-            "Color": "#4b4b4b",
+            "Icon": "https://assets.stkc.win/jailbreaks/yalu.png",
+            "Color": "#4b4b4b"
         }
     ],
     "g0blin": [
@@ -303,8 +303,8 @@
             "Website": "https://www.theiphonewiki.com/wiki/Pangu8",
             "Versions": "8.0 - 8.1",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/pangu8.png"
-            "Color": "#FFFFFF",
+            "Icon": "https://assets.stkc.win/jailbreaks/pangu8.png",
+            "Color": "#FFFFFF"
         }
     ],
     "pangu": [
@@ -339,8 +339,8 @@
             "Website": "https://web.archive.org/web/20210716144344/http://www.taig.com/en/",
             "Versions": "8.0 - 8.4",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/taig.png"
-            "Color": "#c8e381",
+            "Icon": "https://assets.stkc.win/jailbreaks/taig.png",
+            "Color": "#c8e381"
         }
     ],
     "ppjailbreak": [
@@ -506,8 +506,8 @@
             "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/4590GKZC",
             "Versions": "iPhoneOS 2.2.1 v2",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/quickfreedom.png"
-            "Color": "#3c3b3c",
+            "Icon": "https://assets.stkc.win/jailbreaks/quickfreedom.png",
+            "Color": "#3c3b3c"
         }
     ],
     "quicktether": [
@@ -517,8 +517,8 @@
             "Website": "https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/4590GKZC",
             "Versions": "iPhoneOS 2.2.1 v2",
             "Type": "Untethered",
-            "Icon": "https://assets.stkc.win/jailbreaks/quicktether.png"
-            "Color": "#3c3b3c",
+            "Icon": "https://assets.stkc.win/jailbreaks/quicktether.png",
+            "Color": "#3c3b3c"
         }
     ],
     "quickpwn": [
