@@ -608,9 +608,9 @@
     "p0insettia": [
         {
             "Name": "p0insettia",
-            "LatestVersion": "10.3.x",
+            "LatestVersion": "1.0 beta 1",
             "Website": "https://dora2ios.web.app/p0insettia.html",
-            "Versions": "1.0 beta 1",
+            "Versions": "10.3.x",
             "Icon": "https://assets.stkc.win/jailbreaks/p0insettia.png",
             "Color": "#f6b0f6",
             "Type": "Untethered, semi-untethered, tethered",
@@ -634,7 +634,7 @@
             "Name": "daibutsu",
             "LatestVersion": "8.4.1",
             "Website": "https://dora2ios.web.app/daibutsu.html",
-            "Versions": "1.2.1 Release",
+            "Versions": "1.2.1",
             "Icon": "https://assets.stkc.win/jailbreaks/p0insettia.png",
             "Color": "#f6b0f6",
             "Type": "Untethered",
