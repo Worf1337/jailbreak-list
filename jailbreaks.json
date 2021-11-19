@@ -613,7 +613,7 @@
             "Versions": "1.0 beta 1",
             "Icon": "https://assets.stkc.win/jailbreaks/p0insettia.png",
             "Color": "#f6b0f6",
-            "Type": "Semi-untethered",
+            "Type": "Untethered, semi-untethered, tethered",
             "Notes": "A tool for iOS 10.3.x 32-bit devices with checkm8 bootrom exploit."
         }
     ]
