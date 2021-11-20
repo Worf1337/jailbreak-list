@@ -620,11 +620,11 @@
     "kok3shi": [
         {
             "Name": "kok3shi",
-            "LatestVersion": "9.3.5",
+            "LatestVersion": "1.0 beta 2",
             "Website": "https://dora2ios.web.app/kokeshiJB.html",
-            "Versions": "1.0 beta 2",
-            "Icon": "https://assets.stkc.win/jailbreaks/kok3shi.png",
-            "Color": "##c279a0",
+            "Versions": "9.3 - 9.3.5",
+            "Icon": "https://assets.stkc.win/jailbreaks/p0insettia.png",
+            "Color": "#f6b0f6",
             "Type": "semi-untethered",
             "Notes": "A tool for semi-untethered jailbreak: 64-bit iOS 9.3 - 9.3.5."
         }
@@ -632,9 +632,9 @@
     "daibutsu": [
         {
             "Name": "daibutsu",
-            "LatestVersion": "8.4.1",
+            "LatestVersion": "1.2.1",
             "Website": "https://dora2ios.web.app/daibutsu.html",
-            "Versions": "1.2.1",
+            "Versions": "8.4.1",
             "Icon": "https://assets.stkc.win/jailbreaks/p0insettia.png",
             "Color": "#f6b0f6",
             "Type": "Untethered",
@@ -644,9 +644,9 @@
     "powdersn0w": [
         {
             "Name": "powdersn0w",
-            "LatestVersion": "6.1.4",
+            "LatestVersion": "2.0b3",
             "Website": "https://dora2ios.web.app/konayuki/index.html",
-            "Versions": "2.0b3",
+            "Versions": "5.1.1 - 9.3.6",
             "Icon": "https://assets.stkc.win/jailbreaks/p0insettia.png",
             "Color": "#f6b0f6",
             "Type": "Untethered",
