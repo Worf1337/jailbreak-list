@@ -1,0 +1,5 @@
+#!/bin/bash
+git clone https://github.com/stekc/jailbreak-list.git /usr/www/stkcwin/wwwroot/assets.stkc.win/jailbreak-list.tmp
+cp -r /usr/www/stkcwin/wwwroot/assets.stkc.win/jailbreak-list.tmp/* /usr/www/stkcwin/wwwroot/assets.stkc.win
+rm -rf /usr/www/stkcwin/wwwroot/assets.stkc.win/jailbreak-list.tmp
+exit 0
