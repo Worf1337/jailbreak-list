@@ -652,5 +652,17 @@
             "Type": "Untethered",
             "Notes": "A tool for untethered downgrade or jailbreak devices."
         }
+    ],
+    "unc0ver dark": [
+        {
+            "Name": "unc0ver dark",
+            "LatestVersion": "1.2.3",
+            "Website": "https://dark.diatr.us",
+            "Versions": "12.0 - 12.1.2",
+            "Icon": "https://assets.stkc.win/jb-icons/unc0ver-dark.png",
+            "Color": "#000000",
+            "Type": "Semi-untethered",
+            "Notes": "A (now EOL) fork of unc0ver with Sileo. You should use [Odyssey](https://theodyssey.dev/) instead."
+        }
     ]
 }
